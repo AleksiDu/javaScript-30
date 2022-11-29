@@ -7,3 +7,4 @@ ___
 3. [CSS Variable](https://aleksidu.github.io/javaScript-30/3-css-variables/)
 4. [Array Cardio Day 1](https://aleksidu.github.io/javaScript-30/4-array-cardio-day-1)
 5. [Flex Panel Gallery](https://aleksidu.github.io/javaScript-30/5-flex-panel-gallery)
+6. [Type Ahead](https://aleksidu.github.io/javaScript-30/6-type-ahead)
