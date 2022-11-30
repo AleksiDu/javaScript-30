@@ -8,3 +8,4 @@ ___
 4. [Array Cardio Day 1](https://aleksidu.github.io/javaScript-30/4-array-cardio-day-1)
 5. [Flex Panel Gallery](https://aleksidu.github.io/javaScript-30/5-flex-panel-gallery)
 6. [Type Ahead](https://aleksidu.github.io/javaScript-30/6-type-ahead)
+7. [Array Cardio Day 2](https://aleksidu.github.io/javaScript-30/7-array-cardio-day-2)
