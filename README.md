@@ -9,3 +9,4 @@ ___
 5. [Flex Panel Gallery](https://aleksidu.github.io/javaScript-30/5-flex-panel-gallery)
 6. [Type Ahead](https://aleksidu.github.io/javaScript-30/6-type-ahead)
 7. [Array Cardio Day 2](https://aleksidu.github.io/javaScript-30/7-array-cardio-day-2)
+8. [Fun With HTML5 Canvas](https://aleksidu.github.io/javaScript-30/8-fun-with-html5-canvas)
