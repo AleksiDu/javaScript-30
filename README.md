@@ -13,3 +13,4 @@ ___
 9. [Dev Tools Domination](https://aleksidu.github.io/javaScript-30/09-dev-tools-domination)
 10. [Hold Shift and Check Checkboxes](https://aleksidu.github.io/javaScript-30/10-hold-shift-and-check-checkboxes)
 11. [Custom Video Player](https://aleksidu.github.io/javaScript-30/11-custom-video-player)
+12. [Key Sequence Detection](https://aleksidu.github.io/javaScript-30/11-custom-video-player)
