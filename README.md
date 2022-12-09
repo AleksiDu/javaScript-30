@@ -15,3 +15,4 @@ ___
 11. [Custom Video Player](https://aleksidu.github.io/javaScript-30/11-custom-video-player)
 12. [Key Sequence Detection](https://aleksidu.github.io/javaScript-30/12-key-sequence-detection)
 13. [Slide In On Scroll](https://aleksidu.github.io/javaScript-30/13-slide-in-on-scroll)
+14. [JavaScript Reference Vs Copying](https://aleksidu.github.io/javaScript-30/14-javascript-references-vs-copying)
