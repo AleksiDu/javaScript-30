@@ -19,3 +19,5 @@ ___
 15. [Local Storage](https://aleksidu.github.io/javaScript-30/15-local-storage)
 16. [Mouse Move Shadow](https://aleksidu.github.io/javaScript-30/16-mouse-move-shadow)
 17. [Sort Without Article]](https://aleksidu.github.io/javaScript-30/17-sort-without-article)
+18. [Adding Up Times With Reduce]](https://aleksidu.github.io/javaScript-30/18-adding-up-times-with-reduce)
+
