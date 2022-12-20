@@ -21,4 +21,6 @@ ___
 17. [Sort Without Article](https://aleksidu.github.io/javaScript-30/17-sort-without-article)
 18. [Adding Up Times With Reduce](https://aleksidu.github.io/javaScript-30/18-adding-up-times-with-reduce)
 19. [Webcam Fun](https://aleksidu.github.io/javaScript-30/19-webcam-fun)
+20. [Speech Detection](https://aleksidu.github.io/javaScript-30/20-speech-detection)
+
 
