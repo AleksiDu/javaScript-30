@@ -24,6 +24,7 @@ ___
 20. [Speech Detection](https://aleksidu.github.io/javaScript-30/20-speech-detection)
 21. [Geolocation](https://aleksidu.github.io/javaScript-30/21-geolocation)
 22. [Follow Along Link Highlighter](https://aleksidu.github.io/javaScript-30/22-follow-along-link-highlighter)
+23. [Speech Synthesis](https://aleksidu.github.io/javaScript-30/23-speech-synthesis)
 
 
 
