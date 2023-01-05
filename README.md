@@ -26,6 +26,7 @@ ___
 22. [Follow Along Link Highlighter](https://aleksidu.github.io/javaScript-30/22-follow-along-link-highlighter)
 23. [Speech Synthesis](https://aleksidu.github.io/javaScript-30/23-speech-synthesis)
 24. [Sticky Nav](https://aleksidu.github.io/javaScript-30/24-sticky-nav)
+25. [25-event-capture-propagation-bubbling-and-once](https://aleksidu.github.io/javaScript-30/25-event-capture-propagation-bubbling-and-once)
 
 
 
