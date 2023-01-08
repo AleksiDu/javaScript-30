@@ -28,6 +28,7 @@ ___
 24. [Sticky Nav](https://aleksidu.github.io/javaScript-30/24-sticky-nav)
 25. [Event Capture, Propagation, Bubbling and Once](https://aleksidu.github.io/javaScript-30/25-event-capture-propagation-bubbling-and-once)
 26. [Stripe Follow Along Nav](https://aleksidu.github.io/javaScript-30/26-stripe-follow-along-nav)
+27. [Click And Drag](https://aleksidu.github.io/javaScript-30/27-click-and-drag)
 
 
 
