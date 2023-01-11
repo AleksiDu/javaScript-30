@@ -31,6 +31,7 @@ ___
 27. [Click And Drag](https://aleksidu.github.io/javaScript-30/27-click-and-drag)
 28. [Video Speed Controller](https://aleksidu.github.io/javaScript-30/28-video-speed-controller)
 29. [Countdown Timer](https://aleksidu.github.io/javaScript-30/29-countdown-timer)
+30. [Whack A Mole](https://aleksidu.github.io/javaScript-30/30-whack-a-mole)
 
 
 
